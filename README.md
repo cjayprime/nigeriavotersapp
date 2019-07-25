@@ -1,4 +1,4 @@
-# Nigeria Voter's App
+# Nigeria Voters App
 
 ## Build Setup
 
